@@ -1,2 +1,2 @@
 # magento2-blog
-Ahmed Shukri
+Ahmed Shukri Magento 2 Blog
